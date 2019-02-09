@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="american_dad">
+
+        <item>@drawable/americanfamily</item>
+        <item>@drawable/kalus</item>
+        <item>@drawable/rogerpointing</item>
+        <item>@drawable/stanwinging</item>
+        <item>@drawable/steve</item>
+
+
+    </array>
+
+
+</resources>

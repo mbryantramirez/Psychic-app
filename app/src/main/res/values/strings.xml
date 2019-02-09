@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Psychic_App_HW_CHARLES_CLIFFORD</string>
+    <string name="submit_button">Submit</string>
+    <string-array name="spinner_strings_array">
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Mouse</item>
+    </string-array>
+</resources>
